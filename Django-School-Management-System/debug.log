@@ -3197,3 +3197,30 @@ INFO 2023-05-07 16:34:56,224 "GET /static/plugins/bootstrap/js/bootstrap.bundle.
 INFO 2023-05-07 16:34:56,554 "GET /static/plugins/toastr/toastr.js.map HTTP/1.1" 304 0
 INFO 2023-05-07 16:34:57,206 "GET /static/dist/js/adminlte.js.map HTTP/1.1" 304 0
 WARNING 2023-05-07 16:34:57,988 "GET /static/plugins/Datatables/pdfmake.min.js.map HTTP/1.1" 404 1870
+INFO 2023-05-07 16:45:32,474 "GET /result/create/ HTTP/1.1" 200 14829
+INFO 2023-05-07 16:45:33,015 "GET /static/plugins/fontawesome-free/css/all.min.css HTTP/1.1" 304 0
+INFO 2023-05-07 16:45:33,540 "GET /static/plugins/toastr/toastr.min.css HTTP/1.1" 304 0
+INFO 2023-05-07 16:45:34,098 "GET /static/plugins/overlayScrollbars/css/OverlayScrollbars.min.css HTTP/1.1" 304 0
+INFO 2023-05-07 16:45:34,459 "GET /static/plugins/Datatables/datatables.min.css HTTP/1.1" 304 0
+INFO 2023-05-07 16:45:34,775 "GET /static/dist/css/adminlte.min.css HTTP/1.1" 304 0
+WARNING 2023-05-07 16:45:35,444 Not Found: /result/index.css
+WARNING 2023-05-07 16:45:35,444 "GET /result/index.css HTTP/1.1" 404 6664
+INFO 2023-05-07 16:45:35,732 "GET /static/plugins/jquery/jquery.min.js HTTP/1.1" 304 0
+INFO 2023-05-07 16:45:36,035 "GET /static/dist/js/jquery.formset.js HTTP/1.1" 304 0
+INFO 2023-05-07 16:45:36,365 "GET /static/plugins/bootstrap/js/bootstrap.bundle.min.js HTTP/1.1" 304 0
+INFO 2023-05-07 16:45:36,715 "GET /static/plugins/toastr/toastr.min.js HTTP/1.1" 304 0
+INFO 2023-05-07 16:45:37,079 "GET /static/plugins/overlayScrollbars/js/jquery.overlayScrollbars.min.js HTTP/1.1" 304 0
+INFO 2023-05-07 16:45:37,435 "GET /static/dist/js/adminlte.js HTTP/1.1" 304 0
+INFO 2023-05-07 16:45:37,748 "GET /static/dist/js/demo.js HTTP/1.1" 304 0
+WARNING 2023-05-07 16:45:38,324 "GET /static/plugins/Datatables/pdfmake.min.js.map HTTP/1.1" 404 1870
+INFO 2023-05-07 16:45:39,724 "GET /static/plugins/fontawesome-free/webfonts/fa-solid-900.woff2 HTTP/1.1" 304 0
+INFO 2023-05-07 16:45:51,848 "GET /student/list HTTP/1.1" 200 18236
+WARNING 2023-05-07 16:45:54,241 Not Found: /index.css
+WARNING 2023-05-07 16:45:54,241 "GET /index.css HTTP/1.1" 404 6196
+WARNING 2023-05-07 16:45:56,973 "GET /static/plugins/Datatables/pdfmake.min.js.map HTTP/1.1" 404 1870
+INFO 2023-05-07 16:52:46,119 "GET /student/list HTTP/1.1" 200 18236
+WARNING 2023-05-07 16:52:49,751 Not Found: /index.css
+WARNING 2023-05-07 16:52:49,751 "GET /index.css HTTP/1.1" 404 6196
+INFO 2023-05-07 16:52:52,353 "GET /static/plugins/Datatables/datatables.min.js HTTP/1.1" 304 0
+WARNING 2023-05-07 16:52:52,526 "GET /static/plugins/Datatables/pdfmake.min.js.map HTTP/1.1" 404 1870
+INFO 2023-05-07 16:52:54,470 "GET /static/plugins/fontawesome-free/webfonts/fa-regular-400.woff2 HTTP/1.1" 304 0
